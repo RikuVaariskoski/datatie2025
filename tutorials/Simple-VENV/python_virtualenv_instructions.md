@@ -33,3 +33,8 @@
    ```bash
    source venv/bin/activate
    ```
+
+Now, you are ready to install JupyterLab and other libraries:
+   ```
+   pip install jupyterlab
+      ```
