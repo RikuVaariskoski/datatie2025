@@ -35,6 +35,6 @@
    ```
 
 Now, you are ready to install JupyterLab and other libraries:
-   ```
+   ```bash
    pip install jupyterlab
-      ```
+   ```
